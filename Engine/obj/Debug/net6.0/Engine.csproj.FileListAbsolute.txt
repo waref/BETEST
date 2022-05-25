@@ -1,0 +1,12 @@
+C:\Users\Waref\source\repos\LuccaCurrrency\Engine\bin\Debug\net6.0\Engine.deps.json
+C:\Users\Waref\source\repos\LuccaCurrrency\Engine\bin\Debug\net6.0\Engine.dll
+C:\Users\Waref\source\repos\LuccaCurrrency\Engine\bin\Debug\net6.0\Engine.pdb
+C:\Users\Waref\source\repos\LuccaCurrrency\Engine\obj\Debug\net6.0\Engine.csproj.AssemblyReference.cache
+C:\Users\Waref\source\repos\LuccaCurrrency\Engine\obj\Debug\net6.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Waref\source\repos\LuccaCurrrency\Engine\obj\Debug\net6.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Waref\source\repos\LuccaCurrrency\Engine\obj\Debug\net6.0\Engine.AssemblyInfo.cs
+C:\Users\Waref\source\repos\LuccaCurrrency\Engine\obj\Debug\net6.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Waref\source\repos\LuccaCurrrency\Engine\obj\Debug\net6.0\Engine.dll
+C:\Users\Waref\source\repos\LuccaCurrrency\Engine\obj\Debug\net6.0\refint\Engine.dll
+C:\Users\Waref\source\repos\LuccaCurrrency\Engine\obj\Debug\net6.0\Engine.pdb
+C:\Users\Waref\source\repos\LuccaCurrrency\Engine\obj\Debug\net6.0\ref\Engine.dll

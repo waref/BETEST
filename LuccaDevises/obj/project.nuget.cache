@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jf+6gbFZTX6a9X+35EqqvweneZ3QGkKaQR40vksh4j94kUiQAypOELZWHZJHgPFd9c1YxnaojZJhg5ZyXQJKNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Waref\\Desktop\\waref\\LuccaDevises\\LuccaDevises.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Waref\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\Waref\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
