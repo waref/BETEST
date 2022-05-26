@@ -41,8 +41,12 @@ LuccaCurrrency/             # Main solution.
 * BusinessLayer & PresentationLayer expose services undividually for other usages .
 * The current algorithm is suitable for this example ( undirected and unweighted ). 
 * In case of new request to support also a weighted graph , I recommand to keep usage of Matrix generation in BusinessLayer and use strategy pattern to switch between algorithms depending on context (condition).
-* 
+* I used Autofac Ioc for dependcy injection to ensure the depency invertion principe ( the D in SOLID principe).
+### Unit tests 
 
+ I used unit test first (TDD) with the help of MsTest and Moq for mocking objects and their resyrns.
+ 
+ 
 ```yml
 ---
 title: Technical specification
